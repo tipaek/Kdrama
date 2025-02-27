@@ -1,0 +1,43 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+*.log
+*.pot
+*.pyc
+
+# Django settings
+*.env
+*.env.*
+*.local
+
+# React
+node_modules/
+build/
+dist/
+*.log
+
+# Django migrations
+*/migrations/*
+
+# PyCharm project files
+.idea/
+
+# VSCode project files
+.vscode/
+
+# Editor backup files
+*~
+*.swp
+
+# Virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# .env files
+.env*
