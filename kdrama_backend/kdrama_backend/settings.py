@@ -53,7 +53,7 @@ REST_FRAMEWORK = {
 }
 
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:3000',  # Adjust for your frontend's URL
+    'http://localhost:5173',  # Adjust for your frontend's URL
 ]
 
 MIDDLEWARE = [
